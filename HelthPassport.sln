@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelthPassport.TestConsole", "HelthPassport.TestConsole\HelthPassport.TestConsole.csproj", "{39752CD8-619F-4191-869F-B870170189EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelthPassport.Entities", "HelthPassport.Entities\HelthPassport.Entities.csproj", "{F45E5492-92EA-43FD-B0EC-2657DBB02883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelthPassport.Service", "HelthPassport.Services\HelthPassport.Service.csproj", "{6E6EF249-C600-40F9-9158-0085F2161EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39752CD8-619F-4191-869F-B870170189EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39752CD8-619F-4191-869F-B870170189EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39752CD8-619F-4191-869F-B870170189EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39752CD8-619F-4191-869F-B870170189EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45E5492-92EA-43FD-B0EC-2657DBB02883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45E5492-92EA-43FD-B0EC-2657DBB02883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45E5492-92EA-43FD-B0EC-2657DBB02883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45E5492-92EA-43FD-B0EC-2657DBB02883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E6EF249-C600-40F9-9158-0085F2161EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6EF249-C600-40F9-9158-0085F2161EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6EF249-C600-40F9-9158-0085F2161EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6EF249-C600-40F9-9158-0085F2161EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

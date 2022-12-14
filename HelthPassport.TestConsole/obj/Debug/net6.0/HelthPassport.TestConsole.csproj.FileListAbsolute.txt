@@ -1,0 +1,15 @@
+D:\Projects\HelthPassport\HelthPassport.TestConsole\bin\Debug\net6.0\HelthPassport.TestConsole.exe
+D:\Projects\HelthPassport\HelthPassport.TestConsole\bin\Debug\net6.0\HelthPassport.TestConsole.deps.json
+D:\Projects\HelthPassport\HelthPassport.TestConsole\bin\Debug\net6.0\HelthPassport.TestConsole.runtimeconfig.json
+D:\Projects\HelthPassport\HelthPassport.TestConsole\bin\Debug\net6.0\HelthPassport.TestConsole.dll
+D:\Projects\HelthPassport\HelthPassport.TestConsole\bin\Debug\net6.0\HelthPassport.TestConsole.pdb
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.csproj.AssemblyReference.cache
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.AssemblyInfoInputs.cache
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.AssemblyInfo.cs
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.csproj.CoreCompileInputs.cache
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.dll
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\refint\HelthPassport.TestConsole.dll
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.pdb
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\HelthPassport.TestConsole.genruntimeconfig.cache
+D:\Projects\HelthPassport\HelthPassport.TestConsole\obj\Debug\net6.0\ref\HelthPassport.TestConsole.dll
